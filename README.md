@@ -3,12 +3,11 @@
 This is your one-stop shop to find *incredible* community projects built with
 the [Charm][charm] stack. Get inspired, and most importantly, get building!
 
-## The Concept
-
 This is an entirely community-driven repo for members of the community to share
 their projects. You can PR your completed projects to be included in the list. 
 
 You're also welcome to contribute ideas without building them out. 
+
 ## What is a "Complete" Project
 
 A project is considered complete when:
@@ -18,7 +17,6 @@ A project is considered complete when:
    
 > [!NOTE]
 > Please include an overview of what Charm libraries you used to build your project.
-
 
 ## Feedback
 
