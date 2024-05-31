@@ -1,39 +1,29 @@
-# Strutt your stuff
+<!--lint ignore double-link awesome-git-repo-age awesome-github -->
+<!-- TODO: remove awesome-git-repo-age when repo is older than 30 days -->
+
+# Awesome Charm [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 This is your one-stop shop to find *incredible* community projects built with
-the [Charm][charm] stack. Get inspired, and most importantly, get building!
+the [Charm](https://github.com/charmbracelet/) stack. Get inspired, and most importantly, get building!
 
 This is an entirely community-driven repo for members of the community to share
-their projects. You can PR your completed projects to be included in the list. 
+their projects. You can PR your completed projects to be included in the list.
 
-You're also welcome to contribute ideas without building them out. 
+You're also welcome to contribute ideas without building them out.
 
-## What is a "Complete" Project
+To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
-A project is considered complete when:
-1. It implements the minimum viable product for the idea
-2. It includes a `README` with screenshots or a GIF describing the
-   application's behavior. See [Freeze][freeze] or [VHS][vhs] for easy demos.
-   
-> [!NOTE]
-> Please include an overview of what Charm libraries you used to build your project.
+## Contents
 
-## Feedback
+- [Applications](#applications)
+  - [Bubbletea](#bubbletea)
+- [Other](#other)
+  - [Editor Plugins](#editor-plugins)
 
-We’d love to hear your thoughts on this project. Join the chatter happening on [Discord](https://charm.sh/chat).
+## Applications
 
-## License
+### Bubbletea
 
-[MIT](https://github.com/charmbracelet/skate/raw/main/LICENSE)
+## Other
 
-***
-
-Part of [Charm](https://charm.sh).
-
-<a href="https://charm.sh/"><img alt="The Charm logo" src="https://stuff.charm.sh/charm-badge.jpg" width="400"></a>
-
-Charm热爱开源 • Charm loves open source
-
-[charm]: https://github.com/charmbracelet/
-[freeze]: https://github.com/charmbracelet/freeze
-[vhs]: https://github.com/charmbracelet/vhs
+### Editor Plugins
