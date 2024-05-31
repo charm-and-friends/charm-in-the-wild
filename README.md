@@ -1,6 +1,6 @@
-<!--lint ignore remark-lint:double-link-->
-<!-- lint ignore remark-lint:awesome-git-repo-age -->
-<!-- lint ignore remark-lint:awesome-github -->
+<!--lint ignore double-link-->
+<!-- lint ignore awesome-git-repo-age -->
+<!-- lint ignore awesome-github -->
 
 # Awesome Charm [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
