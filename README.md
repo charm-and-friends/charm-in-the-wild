@@ -17,12 +17,17 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 - [Applications](#applications)
   - [Bubbletea](#bubbletea)
+  - [huh?](#huh?)
 - [Other](#other)
   - [Editor Plugins](#editor-plugins)
 
 ## Applications
 
 ### Bubbletea
+
+### `huh?`
+
+- [meteor](https://www.github.com/stefanlogue/meteor): A highly configurable CLI tool for writing conventional commits, built with `huh?`!
 
 ## Other
 
