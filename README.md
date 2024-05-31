@@ -22,7 +22,7 @@ A project is considered complete when:
 ## Contents
 
 - [Applications](#applications)
-  - [Bubbletea](#bubbleatea)
+  - [Bubbletea](#bubbletea)
 - [Other](#other)
   - [Editor Plugins](#editor-plugins)
 
