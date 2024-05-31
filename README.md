@@ -1,3 +1,7 @@
+<!--lint ignore remark-lint:double-link-->
+<!-- lint ignore remark-lint:awesome-git-repo-age -->
+<!-- lint ignore remark-lint:awesome-github -->
+
 # Awesome Charm [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 This is your one-stop shop to find *incredible* community projects built with
