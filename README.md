@@ -1,6 +1,5 @@
+<!-- TODO: remove awesome-git-repo-age when repo is older than 30 days -->
 <!--lint ignore double-link awesome-git-repo-age awesome-github -->
-<!-- lint ignore awesome-git-repo-age -->
-<!-- lint ignore awesome-github -->
 
 # Awesome Charm [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
