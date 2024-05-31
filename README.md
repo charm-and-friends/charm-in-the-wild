@@ -1,4 +1,4 @@
-<!--lint ignore double-link-->
+<!--lint ignore double-link awesome-git-repo-age awesome-github -->
 <!-- lint ignore awesome-git-repo-age -->
 <!-- lint ignore awesome-github -->
 
