@@ -1,7 +1,7 @@
 <!--lint ignore double-link awesome-git-repo-age awesome-github -->
 <!-- TODO: remove awesome-git-repo-age when repo is older than 30 days -->
 
-# Charm in the wild
+# Charm In The Wild
 
 This is your one-stop shop to find *incredible* community projects built with
 the [Charm](https://github.com/charmbracelet/) stack. Get inspired, and most importantly, get building!
