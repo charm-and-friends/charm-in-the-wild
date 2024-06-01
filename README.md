@@ -16,13 +16,13 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Contents
 
 - [Applications](#applications)
-  - [Bubble Tea](#bubbletea)
+  - [Bubble Tea](#bubble-tea)
 - [Other](#other)
   - [Editor Plugins](#editor-plugins)
 
 ## Applications
 
-### Bubbletea
+### Bubble Tea
 
 ## Other
 
