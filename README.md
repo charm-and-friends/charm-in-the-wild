@@ -16,7 +16,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Contents
 
 - [Applications](#applications)
-  - [Bubbletea](#bubbletea)
+  - [Bubble Tea](#bubbletea)
 - [Other](#other)
   - [Editor Plugins](#editor-plugins)
 
