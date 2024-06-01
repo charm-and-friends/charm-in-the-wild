@@ -59,9 +59,9 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [gambit](https://github.com/maaslalani/gambit) - Chess in the terminal.
 - [gembro](https://git.sr.ht/~rafael/gembro) - A mouse-driven Gemini browser.
 - [gh-b](https://github.com/joaom00/gh-b) - A GitHub CLI extension for managing branches.
-- [gh-dash](https://www.github.com/dlvhdr/gh-dash) - A GitHub CLI extension for PRs and issues
+- [gh-dash](https://www.github.com/dlvhdr/gh-dash) - A GitHub CLI extension for PRs and issues.
 - [gitflow-toolkit](https://github.com/mritd/gitflow-toolkit) - A GitFlow submission tool.
-- [Glow](https://github.com/charmbracelet/glow) - A markdown reader, browser, and online markdown stash,
+- [Glow](https://github.com/charmbracelet/glow) - A markdown reader, browser, and online markdown stash.
 - [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper in the terminal.
 - [gocovsh](https://github.com/orlangure/gocovsh) - Explore Go coverage reports from the CLI.
 - [got](https://github.com/fedeztk/got) - A simple translator and text-to-speech app built on simplytranslate's APIs.
@@ -101,7 +101,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike Solitaire for the terminal.
 - [StormForge Optimize Controller](https://github.com/thestormforge/optimize-controller) - A tool for experimenting with application configurations in Kubernetes.
 - [Storydb](https://github.com/grrlopes/storydb) - An improved bash/zsh-style ctrl+r command history finder.
-- [STTG](https://github.com/wille1101/sttg) - A teletext client for SVT, Sweden’s national public television station.
+- [STTG](https://github.com/wille1101/sttg) - A teletext client for SVT, Sweden's national public television station.
 - [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer.
 - [superfile](https://github.com/MHNightCat/superfile) - A fancy, modern terminal-based file manager.
 - [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer.
@@ -110,7 +110,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [ticker](https://github.com/achannarasappa/ticker) - A terminal stock viewer and stock position tracker.
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials.
 - [tran](https://github.com/abdfnx/tran) - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal)).
-- [Trufflehog](https://github.com/trufflesecurity/trufflehog)- Find leaked credentials.
+- [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials.
 - [Typer](https://github.com/maaslalani/typer) - A typing test.
 - [typioca](https://github.com/bloznelis/typioca) - A typing test.
 - [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones.
