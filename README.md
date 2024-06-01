@@ -27,3 +27,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Other
 
 ### Editor Plugins
+
+*Plugin for text editors and IDEs.*
+
+- [freeze.nvim](https://github.com/charm-community/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
