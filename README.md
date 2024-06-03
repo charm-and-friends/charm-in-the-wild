@@ -127,3 +127,17 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 *Plugin for text editors and IDEs.*
 
 - [freeze.nvim](https://github.com/charm-community/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
+
+---
+
+Part of the [Charm](https://charm.sh) Community.
+
+<a href="https://charm.sh/">
+  <img
+    alt="The Charm logo"
+    width="400"
+    src="https://stuff.charm.sh/charm-badge.jpg"
+  />
+</a>
+
+Charm热爱开源 • Charm loves open source
