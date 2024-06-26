@@ -19,6 +19,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
   - [Bubble Tea](#bubble-tea)
 - [Other](#other)
   - [Editor Plugins](#editor-plugins)
+  - [Shell Functions](#shell-functions)
 
 ## Applications
 
@@ -129,6 +130,12 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 *Plugin for text editors and IDEs.*
 
 - [freeze.nvim](https://github.com/charm-community/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
+
+### Shell Functions
+
+*Utility functions built using tools from Charm's toolbox.*
+
+- [Don P.M.](https://devon.lol/blog/outsourcing-my-memory-to-gum/) - A function to discover npm scripts in any project.
 
 ---
 
