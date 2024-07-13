@@ -40,6 +40,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [chip-8](https://github.com/braheezy/chip-8) - A CHIP-8 interpreter.
 - [chtop](https://github.com/chhetripradeep/chtop) - Monitor your ClickHouse node without leaving the terminal.
 - [circumflex](https://github.com/bensadeh/circumflex) - Read Hacker News in the terminal.
+- [cli-of-life](https://github.com/gabe565/cli-of-life) - Play Conway's Game of Life in your terminal.
 - [clidle](https://github.com/ajeetdsouza/clidle) - A Wordle clone.
 - [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser.
 - [container-canary](https://github.com/NVIDIA/container-canary) - A container validator.
