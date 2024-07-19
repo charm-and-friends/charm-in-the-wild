@@ -69,6 +69,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [got](https://github.com/fedeztk/got) - A simple translator and text-to-speech app built on simplytranslate's APIs.
 - [gum](https://github.com/charmbracelet/gum) - Interactivity and styling for shells and shell scripts.
 - [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context: synced, and queryable.
+- [hours](https://github.com/dhth/hours) - is a no-frills time tracking toolkit for the command line
 - [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool.
 - [Huh?](https://github.com/charmbracelet/huh) - An interactive prompt and form toolkit.
 - [IDNT](https://github.com/r-darwish/idnt) - A batch software uninstaller.
@@ -80,10 +81,12 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [mergestat](https://github.com/mergestat/mergestat) - Run SQL queries on git repositories.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly customizable conventional commit message tool.
 - [mods](https://github.com/charmbracelet/mods) - AI on the CLI, built for pipelines.
+- [mult](https://github.com/dhth/mult) - lets you run a command multiple times and glance at the outputs via a TUI
 - [nachrichten](https://github.com/zMoooooritz/nachrichten) - Access up-to-date news in German provided by the [Tagesschau](https://www.tagesschau.de/).
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News.
 - [nom](https://github.com/guyfedwards/nom) - An RSS reader and manager.
 - [Noted](https://github.com/torbratsberg/noted) - A note viewer and manager.
+- [omm](https://github.com/dhth/omm) - is a keyboard-driven task manager for the command line
 - [outtasync](https://github.com/dhth/outtasync) - Identify CloudFormation stacks that are out of sync with their template files.
 - [pathos](https://github.com/chip/pathos) - A PATH environment variable editor.
 - [Plandex](https://github.com/plandex-ai/plandex) - A terminal-based AI coding engine for complex tasks.
