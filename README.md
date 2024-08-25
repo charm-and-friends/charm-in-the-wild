@@ -122,6 +122,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Typer](https://github.com/maaslalani/typer) - A typing test.
 - [typioca](https://github.com/bloznelis/typioca) - A typing test.
 - [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones.
+- [ube](https://github.com/ramirezfernando/ube) - A lines of code counter.
 - [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser.
 - [walk](https://github.com/antonmedv/walk) - A terminal navigator.
 - [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client.
