@@ -98,7 +98,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [redis-viewer](https://github.com/SaltFishPr/redis-viewer) - A Redis database browser.
 - [redis_tui](https://github.com/mat2cc/redis_tui) - A Redis database browser.
 - [schemas](https://github.com/dhth/schemas) - Lets you inspect postgres schemas in the terminal.
-- [skeleton](https://github.com/termkit/skeleton): a multi-tab (TUI) library based on Bubble Tea framework.
+- [skeleton](https://github.com/termkit/skeleton) - A TUI multi-tab library based on Bubble Tea framework.
 - [scrabbler](https://github.com/wI2L/scrabbler) - An automatic draw tool for your duplicate Scrabble games.
 - [sku](https://github.com/fedeztk/sku) - Sudoku on the CLI.
 - [Slides](https://github.com/maaslalani/slides) - A markdown-based presentation tool.
