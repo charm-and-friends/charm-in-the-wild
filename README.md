@@ -113,6 +113,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer.
 - [tapioca](https://github.com/charm-community/tapioca) -  Floating progress bar compatible with any loggers that you might use. 
 - [termdbms](https://github.com/mathaou/termdbms) - A keyboard and mouse driven database browser.
+- [tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Tetris in your terminal.
 - [text-adventure](https://gitlab.com/thustle/text-adventure) - A text adventure game/engine with a TUI interface.
 - [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary.
 - [Thardians](https://gitlab.com/thustle/thardians) - Space Invaders for the terminal.
