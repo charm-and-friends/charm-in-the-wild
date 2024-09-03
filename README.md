@@ -148,7 +148,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Part of the [Charm](https://charm.sh) Community.
+Part of [Charm](https://charm.sh) and Friends.
 
 <a href="https://charm.sh/">
   <img
