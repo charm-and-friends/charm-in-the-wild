@@ -115,7 +115,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 * [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer.
 * [superfile](https://github.com/MHNightCat/superfile)  a fancy, modern terminal-based file manager
 * [superfile](https://github.com/MHNightCat/superfile) - A fancy, modern terminal-based file manager.
-* [tapioca](https://github.com/charm-community/tapioca) -  Floating progress bar compatible with any loggers that you might use.
+* [tapioca](https://github.com/charm-and-friends/tapioca) -  Floating progress bar compatible with any loggers that you might use.
 * [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer.
 * [termdbms](https://github.com/mathaou/termdbms) - A keyboard and mouse driven database browser.
 * [tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Tetris in your terminal.
@@ -138,7 +138,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 *Plugin for text editors and IDEs.*
 
-- [freeze.nvim](https://github.com/charm-community/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
+- [freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
 
 ### Tutorials
 
