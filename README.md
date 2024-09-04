@@ -142,7 +142,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ### Tutorials
 
-*How-tos featuring tools by Charm.*
+*Get started with the Charm ecosystem with these dazzling tutorials.*
 
 - [Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/) -  Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) and [Gum](https://github.com/charmbracelet/gum).
 
