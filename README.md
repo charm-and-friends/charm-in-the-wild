@@ -16,138 +16,170 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## Contents
 
 - [Applications](#applications)
-  - [Bubble Tea](#bubble-tea)
-- [Other](#other)
-  - [Editor Plugins](#editor-plugins)
-  - [Tutorials](#tutorials)
+- [Editor Plugins](#editor-plugins)
+- [Tutorials](#tutorials)
 
 ## Applications
 
-### Bubble Tea
+### AI
 
-*Bubble Tea programs used in production.*
+- [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - A TUI for ChatGPT. (_built with Bubble Tea_)
+- [chatgpt-cli](https://github.com/j178/chatgpt) - A CLI for ChatGPT. (_built with Bubble Tea_)
+- [chatgpt-tui](https://github.com/tearingItUp786/chatgpt-tui) - A TUI for ChatGPT with SQLite sessions. (_built with Bubble Tea_)
+- [mods](https://github.com/charmbracelet/mods) - AI on the CLI, built for pipelines. (_built with Bubble Tea_)
+- [Plandex](https://github.com/plandex-ai/plandex) - A terminal-based AI coding engine for complex tasks. (_built with Bubble Tea_)
+- [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary. (_built with Bubble Tea_)
 
-- [ASCII Movie](https://github.com/gabe565/ascii-movie) - A Star Wars ASCII art movie player.
-- [AT CLI](https://github.com/daskycodes/at_cli) - Execute AT Commands via serial port connections.
-- [Aztify](https://github.com/Azure/aztfy) - Bring Microsoft Azure resources under Terraform.
-- [brows](https://github.com/rubysolo/brows) - A GitHub release browser.
-- [Canard](https://github.com/mrusme/canard) - An RSS client.
-- [charm](https://github.com/charmbracelet/charm) - The official Charm user account manager.
-- [chatgpt-cli](https://github.com/j178/chatgpt) - A CLI for ChatGPT.
-- [chatgpt-tui](https://github.com/tearingItUp786/chatgpt-tui) - A TUI for ChatGPT with SQLite sessions.
-- [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - A TUI for ChatGPT.
-- [chezmoi](https://github.com/twpayne/chezmoi) - Securely manage your dotfiles across multiple machines.
-- [chip-8](https://github.com/braheezy/chip-8) - A CHIP-8 interpreter.
-- [chtop](https://github.com/chhetripradeep/chtop) - Monitor your ClickHouse node without leaving the terminal.
-- [circumflex](https://github.com/bensadeh/circumflex) - Read Hacker News in the terminal.
-- [cli-of-life](https://github.com/gabe565/cli-of-life) - Play Conway's Game of Life in your terminal.
-- [clidle](https://github.com/ajeetdsouza/clidle) - A Wordle clone.
-- [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser.
-- [container-canary](https://github.com/NVIDIA/container-canary) - A container validator.
-- [countdown](https://github.com/aldernero/countdown) - A multi-event countdown timer.
-- [CRT](https://github.com/BigJk/crt) - A simple terminal emulator for running Bubble Tea in a dedicated window, with optional shaders.
-- [cueitup](https://github.com/dhth/cueitup) - Inspect messages in an AWS SQS queue in a simple and deliberate manner.
-- [Daytona](https://github.com/daytonaio/daytona) - An development environment manager.
-- [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS with Amazon Route53; expose your EC2 quickly, securely and privately.
-- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - A tool for visualizing dynamic node usage within an EKS cluster.
-- [End Of Eden](https://github.com/BigJk/end_of_eden) - A "Slay the Spire"-like, roguelike deck-builder game.
-- [enola](https://github.com/sherlock-project/enola) - Find social media accounts by username across social networks.
-- [flapioca](https://github.com/kbrgl/flapioca) - Flappy Bird on the CLI!
-- [fm](https://github.com/knipferrc/fm) - A terminal-based file manager.
-- [fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Clean up old and inactive forks in your GitHub account.
-- [fractals-cli](https://github.com/MicheleFiladelfia/fractals-cli) - A multiplatform terminal fractal explorer.
-- [fztea](https://github.com/jon4hz/fztea) - A Flipper Zero TUI.
-- [gama](https://github.com/termkit/gama) - Manage GitHub Actions from the terminal.
-- [gambit](https://github.com/maaslalani/gambit) - Chess in the terminal.
-- [gembro](https://git.sr.ht/~rafael/gembro) - A mouse-driven Gemini browser.
-- [gh-b](https://github.com/joaom00/gh-b) - A GitHub CLI extension for managing branches.
-- [gh-dash](https://www.github.com/dlvhdr/gh-dash) - A GitHub CLI extension for PRs and issues.
-- [gitflow-toolkit](https://github.com/mritd/gitflow-toolkit) - A GitFlow submission tool.
-- [Glow](https://github.com/charmbracelet/glow) - A markdown reader, browser, and online markdown stash.
-- [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper in the terminal.
-- [gocovsh](https://github.com/orlangure/gocovsh) - Explore Go coverage reports from the CLI.
-- [got](https://github.com/fedeztk/got) - A simple translator and text-to-speech app built on simplytranslate's APIs.
-- [gum](https://github.com/charmbracelet/gum) - Interactivity and styling for shells and shell scripts.
-- [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context: synced, and queryable.
-- [hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for the command line.
-- [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool.
-- [Huh?](https://github.com/charmbracelet/huh) - An interactive prompt and form toolkit.
-- [IDNT](https://github.com/r-darwish/idnt) - A batch software uninstaller.
-- [json-log-viewer](https://github.com/hedhyw/json-log-viewer) - An interactive JSON log viewer.
-- [kboard](https://github.com/CamiloGarciaLaRotta/kboard) - A typing game.
-- [kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic.
-- [laboon](https://github.com/arisnacg/laboon) - A Docker-desktop-style container manager.
-- [mc](https://github.com/minio/mc) - The official [MinIO](https://min.io) client.
-- [mergestat](https://github.com/mergestat/mergestat) - Run SQL queries on git repositories.
-- [meteor](https://github.com/stefanlogue/meteor) - A highly customizable conventional commit message tool.
-- [mods](https://github.com/charmbracelet/mods) - AI on the CLI, built for pipelines.
-- [mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs via a TUI.
-- [nachrichten](https://github.com/zMoooooritz/nachrichten) - Access up-to-date news in German provided by the [Tagesschau](https://www.tagesschau.de/).
-- [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News.
-- [nom](https://github.com/guyfedwards/nom) - An RSS reader and manager.
-- [Noted](https://github.com/torbratsberg/noted) - A note viewer and manager.
-- [omm](https://github.com/dhth/omm) - A keyboard-driven task manager for the command line.
-- [outtasync](https://github.com/dhth/outtasync) - Identify CloudFormation stacks that are out of sync with their template files.
-- [pathos](https://github.com/chip/pathos) - A PATH environment variable editor.
-- [Plandex](https://github.com/plandex-ai/plandex) - A terminal-based AI coding engine for complex tasks.
-- [portal](https://github.com/ZinoKader/portal) - Secure transfers between computers.
-- [prs](https://github.com/dhth/prs) - Stay up to date with your PRs.
-- [puffin](https://github.com/siddhantac/puffin) - A TUI for hledger to manage your finances.
-- [pug](https://github.com/leg100/pug) - Terraform task manager.
-- [punchout](https://github.com/dhth/punchout) - Takes the suck out of logging time on JIRA.
-- [redis-viewer](https://github.com/SaltFishPr/redis-viewer) - A Redis database browser.
-- [redis_tui](https://github.com/mat2cc/redis_tui) - A Redis database browser.
-- [schemas](https://github.com/dhth/schemas) - Lets you inspect postgres schemas in the terminal.
-- [skeleton](https://github.com/termkit/skeleton) - A TUI multi-tab library based on Bubble Tea framework.
-- [scrabbler](https://github.com/wI2L/scrabbler) - An automatic draw tool for your duplicate Scrabble games.
-- [sku](https://github.com/fedeztk/sku) - Sudoku on the CLI.
-- [Slides](https://github.com/maaslalani/slides) - A markdown-based presentation tool.
-- [SlurmCommander](https://github.com/CLIP-HPC/SlurmCommander) - A Slurm workload manager.
-- [Soft Serve](https://github.com/charmbracelet/soft-serve) - A command-line-first Git server that runs a TUI over SSH.
-- [solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike Solitaire for the terminal.
-- [StormForge Optimize Controller](https://github.com/thestormforge/optimize-controller) - A tool for experimenting with application configurations in Kubernetes.
-- [Storydb](https://github.com/grrlopes/storydb) - An improved bash/zsh-style ctrl+r command history finder.
-- [STTG](https://github.com/wille1101/sttg) - A teletext client for SVT, Sweden's national public television station.
-- [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer.
-- [superfile](https://github.com/MHNightCat/superfile) - A fancy, modern terminal-based file manager.
-- [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer.
-- [tapioca](https://github.com/charm-community/tapioca) -  Floating progress bar compatible with any loggers that you might use. 
-- [termdbms](https://github.com/mathaou/termdbms) - A keyboard and mouse driven database browser.
-- [tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Tetris in your terminal.
-- [text-adventure](https://gitlab.com/thustle/text-adventure) - A text adventure game/engine with a TUI interface.
-- [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary.
-- [Thardians](https://gitlab.com/thustle/thardians) - Space Invaders for the terminal.
-- [ticker](https://github.com/achannarasappa/ticker) - A terminal stock viewer and stock position tracker.
-- [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials.
-- [tran](https://github.com/abdfnx/tran) - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal)).
-- [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials.
-- [Typer](https://github.com/maaslalani/typer) - A typing test.
-- [typioca](https://github.com/bloznelis/typioca) - A typing test.
-- [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones.
-- [ube](https://github.com/ramirezfernando/ube) - A lines of code counter.
-- [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser.
-- [walk](https://github.com/antonmedv/walk) - A terminal navigator.
-- [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client.
-- [WG Commander](https://github.com/AndrianBdn/wg-cmd) - A TUI for a simple WireGuard VPN setup.
-- [wishlist](https://github.com/charmbracelet/wishlist) - An SSH directory.
+### Cloud and DevOps
 
-## Other
+- [Aztify](https://github.com/Azure/aztfy) - Bring Microsoft Azure resources under Terraform. (_built with Bubble Tea_)
+- [container-canary](https://github.com/NVIDIA/container-canary) - A container validator. (_built with Bubble Tea_)
+- [cueitup](https://github.com/dhth/cueitup) - Inspect messages in an AWS SQS queue in a simple and deliberate manner. (_built with Bubble Tea_)
+- [Daytona](https://github.com/daytonaio/daytona) - An development environment manager. (_built with Bubble Tea_)
+- [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS with Amazon Route53; expose your EC2 quickly, securely and privately. (_built with Bubble Tea_)
+- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - A tool for visualizing dynamic node usage within an EKS cluster. (_built with Bubble Tea_)
+- [kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic. (_built with Bubble Tea_)
+- [laboon](https://github.com/arisnacg/laboon) - A Docker-desktop-style container manager. (_built with Bubble Tea_)
+- [mc](https://github.com/minio/mc) - The official [MinIO](https://min.io) client. (_built with Bubble Tea_)
+- [outtasync](https://github.com/dhth/outtasync) - Identify CloudFormation stacks that are out of sync with their template files. (_built with Bubble Tea_)
+- [pug](https://github.com/leg100/pug) - Terraform task manager. (_built with Bubble Tea_)
+- [StormForge Optimize Controller](https://github.com/thestormforge/optimize-controller) - A tool for experimenting with application configurations in Kubernetes. (_built with Bubble Tea_)
+- [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client. (_built with Bubble Tea_)
 
-### Editor Plugins
+### Cyber Security (_built with Bubble Tea_)
 
-*Plugin for text editors and IDEs.*
+- [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials. (_built with Bubble Tea_)
+- [WG Commander](https://github.com/AndrianBdn/wg-cmd) - A TUI for a simple WireGuard VPN setup. (_built with Bubble Tea_)
 
-- [freeze.nvim](https://github.com/charm-community/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
+### Database Tools
 
-### Tutorials
+- [chtop](https://github.com/chhetripradeep/chtop) - Monitor your ClickHouse node without leaving the terminal. (_built with Bubble Tea_)
+- [redis-viewer](https://github.com/SaltFishPr/redis-viewer) - A Redis database browser. (_built with Bubble Tea_)
+- [redis_tui](https://github.com/mat2cc/redis_tui) - A Redis database browser. (_built with Bubble Tea_)
+- [schemas](https://github.com/dhth/schemas) - Lets you inspect postgres schemas in the terminal. (_built with Bubble Tea_)
+- [termdbms](https://github.com/mathaou/termdbms) - A keyboard and mouse driven database browser. (_built with Bubble Tea_)
 
-*How-tos featuring tools by Charm.*
+### Development Tools
 
-- [Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/) -  Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) and [Gum](https://github.com/charmbracelet/gum).
+- [AT CLI](https://github.com/daskycodes/at_cli) - Execute AT Commands via serial port connections. (_built with Bubble Tea_)
+- [brows](https://github.com/rubysolo/brows) - A GitHub release browser. (_built with Bubble Tea_)
+- [charm](https://github.com/charmbracelet/charm) - The official Charm user account manager. (_built with Bubble Tea_)
+- [chezmoi](https://github.com/twpayne/chezmoi) - Securely manage your dotfiles across multiple machines. (_built with Bubble Tea_)
+- [CRT](https://github.com/BigJk/crt) - A simple terminal emulator for running Bubble Tea in a dedicated window, with optional shaders. (_built with Bubble Tea_)
+- [fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Clean up old and inactive forks in your GitHub account. (_built with Bubble Tea_)
+- [gama](https://github.com/termkit/gama) - Manage GitHub Actions from the terminal. (_built with Bubble Tea_)
+- [gh-b](https://github.com/joaom00/gh-b) - A GitHub CLI extension for managing branches. (_built with Bubble Tea_)
+- [gh-dash](https://www.github.com/dlvhdr/gh-dash) - A GitHub CLI extension for PRs and issues. (_built with Bubble Tea_)
+- [gitflow-toolkit](https://github.com/mritd/gitflow-toolkit) - A GitFlow submission tool. (_built with Bubble Tea_)
+- [Glow](https://github.com/charmbracelet/glow) - A markdown reader, browser, and online markdown stash. (_built with Bubble Tea_)
+- [gocovsh](https://github.com/orlangure/gocovsh) - Explore Go coverage reports from the CLI. (_built with Bubble Tea_)
+- [gum](https://github.com/charmbracelet/gum) - Interactivity and styling for shells and shell scripts. (_built with Bubble Tea_)
+- [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context: synced, and queryable. (_built with Bubble Tea_)
+- [Huh?](https://github.com/charmbracelet/huh) - An interactive prompt and form toolkit. (_built with Bubble Tea_)
+- [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool. (_built with Bubble Tea_)
+- [json-log-viewer](https://github.com/hedhyw/json-log-viewer) - An interactive JSON log viewer. (_built with Bubble Tea_)
+- [mergestat](https://github.com/mergestat/mergestat) - Run SQL queries on git repositories. (_built with Bubble Tea_)
+- [meteor](https://github.com/stefanlogue/meteor) - A highly customizable conventional commit message tool. (_built with Bubble Tea_)
+- [mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs via a TUI. (_built with Bubble Tea_)
+- [pathos](https://github.com/chip/pathos) - A PATH environment variable editor. (_built with Bubble Tea_)
+- [prs](https://github.com/dhth/prs) - Stay up to date with your PRs. (_built with Bubble Tea_)
+- [skeleton](https://github.com/termkit/skeleton) - A TUI multi-tab library based on Bubble Tea framework. (_built with Bubble Tea_)
+- [Soft Serve](https://github.com/charmbracelet/soft-serve) - A command-line-first Git server that runs a TUI over SSH. (_built with Bubble Tea_)
+- [Storydb](https://github.com/grrlopes/storydb) - An improved bash/zsh-style ctrl+r command history finder. (_built with Bubble Tea_)
+- [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer. (_built with Bubble Tea_)
+- [tapioca](https://github.com/charm-and-friends/tapioca) -  Floating progress bar compatible with any loggers that you might use. (_built with Bubble Tea_)
+- [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
+- [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
+
+### File Management
+
+- [fm](https://github.com/knipferrc/fm) - A terminal-based file manager. (_built with Bubble Tea_)
+- [superfile](https://github.com/MHNightCat/superfile) - A fancy, modern terminal-based file manager. (_built with Bubble Tea_)
+- [walk](https://github.com/antonmedv/walk) - A terminal navigator. (_built with Bubble Tea_)
+
+### Games
+
+- [ASCII Movie](https://github.com/gabe565/ascii-movie) - A Star Wars ASCII art movie player. (_built with Bubble Tea_)
+- [chip-8](https://github.com/braheezy/chip-8) - A CHIP-8 interpreter. (_built with Bubble Tea_)
+- [cli-of-life](https://github.com/gabe565/cli-of-life) - Play Conway's Game of Life in your terminal. (_built with Bubble Tea_)
+- [clidle](https://github.com/ajeetdsouza/clidle) - A Wordle clone. (_built with Bubble Tea_)
+- [End Of Eden](https://github.com/BigJk/end_of_eden) - A "Slay the Spire"-like, roguelike deck-builder game. (_built with Bubble Tea_)
+- [flapioca](https://github.com/kbrgl/flapioca) - Flappy Bird on the CLI! (_built with Bubble Tea_)
+- [fractals-cli](https://github.com/MicheleFiladelfia/fractals-cli) - A multiplatform terminal fractal explorer. (_built with Bubble Tea_)
+- [gambit](https://github.com/maaslalani/gambit) - Chess in the terminal. (_built with Bubble Tea_)
+- [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper in the terminal. (_built with Bubble Tea_)
+- [kboard](https://github.com/CamiloGarciaLaRotta/kboard) - A typing game. (_built with Bubble Tea_)
+- [scrabbler](https://github.com/wI2L/scrabbler) - An automatic draw tool for your duplicate Scrabble games. (_built with Bubble Tea_)
+- [sku](https://github.com/fedeztk/sku) - Sudoku on the CLI. (_built with Bubble Tea_)
+- [solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike Solitaire for the terminal. (_built with Bubble Tea_)
+- [text-adventure](https://gitlab.com/thustle/text-adventure) - A text adventure game/engine with a TUI interface. (_built with Bubble Tea_)
+- [tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Tetris in your terminal. (_built with Bubble Tea_)
+- [Thardians](https://gitlab.com/thustle/thardians) - Space Invaders for the terminal. (_built with Bubble Tea_)
+- [Typer](https://github.com/maaslalani/typer) - A typing test. (_built with Bubble Tea_)
+- [typioca](https://github.com/bloznelis/typioca) - A typing test. (_built with Bubble Tea_)
+
+### Networking and File Transfer
+
+- [portal](https://github.com/ZinoKader/portal) - Secure transfers between computers. (_built with Bubble Tea_)
+- [tran](https://github.com/abdfnx/tran) - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal)). (_built with Bubble Tea_)
+- [wishlist](https://github.com/charmbracelet/wishlist) - An SSH directory. (_built with Bubble Tea_)
+
+### Productivity and Organization
+
+- [countdown](https://github.com/aldernero/countdown) - A multi-event countdown timer. (_built with Bubble Tea_)
+- [hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for the command line. (_built with Bubble Tea_)
+- [IDNT](https://github.com/r-darwish/idnt) - A batch software uninstaller. (_built with Bubble Tea_)
+- [Noted](https://github.com/torbratsberg/noted) - A note viewer and manager. (_built with Bubble Tea_)
+- [omm](https://github.com/dhth/omm) - A keyboard-driven task manager for the command line. (_built with Bubble Tea_)
+- [punchout](https://github.com/dhth/punchout) - Takes the suck out of logging time on JIRA. (_built with Bubble Tea_)
+- [Slides](https://github.com/maaslalani/slides) - A markdown-based presentation tool. (_built with Bubble Tea_)
+- [SlurmCommander](https://github.com/CLIP-HPC/SlurmCommander) - A Slurm workload manager. (_built with Bubble Tea_)
+- [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer. (_built with Bubble Tea_)
+- [ticker](https://github.com/achannarasappa/ticker) - A terminal stock viewer and stock position tracker. (_built with Bubble Tea_)
+- [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones. (_built with Bubble Tea_)
+
+### RSS and News
+
+- [Canard](https://github.com/mrusme/canard) - An RSS client. (_built with Bubble Tea_)
+- [circumflex](https://github.com/bensadeh/circumflex) - Read Hacker News in the terminal. (_built with Bubble Tea_)
+- [nachrichten](https://github.com/zMoooooritz/nachrichten) - Access up-to-date news in German provided by the [Tagesschau](https://www.tagesschau.de/). (_built with Bubble Tea_)
+- [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (_built with Bubble Tea_)
+- [nom](https://github.com/guyfedwards/nom) - An RSS reader and manager. (_built with Bubble Tea_)
+
+### System Management
+
+- [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser. (_built with Bubble Tea_)
+- [fztea](https://github.com/jon4hz/fztea) - A Flipper Zero TUI. (_built with Bubble Tea_)
+- [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser. (_built with Bubble Tea_)
+
+### Translation and Language
+
+- [enola](https://github.com/sherlock-project/enola) - Find social media accounts by username across social networks. (_built with Bubble Tea_)
+- [gembro](https://git.sr.ht/~rafael/gembro) - A mouse-driven Gemini browser. (_built with Bubble Tea_)
+- [got](https://github.com/fedeztk/got) - A simple translator and text-to-speech app built on simplytranslate's APIs. (_built with Bubble Tea_)
+- [STTG](https://github.com/wille1101/sttg) - A teletext client for SVT, Sweden's national public television station. (_built with Bubble Tea_)
+
+### Finance
+
+- [puffin](https://github.com/siddhantac/puffin) - A TUI for hledger to manage your finances. (_built with Bubble Tea_)
+
+## Editor Plugins
+
+*Plugins for text editors and IDEs.*
+
+- [freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
+
+## Tutorials
+
+*Get started with the Charm ecosystem with these dazzling tutorials.*
+
+- **[Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/)** — Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) and [Gum](https://github.com/charmbracelet/gum).
+- **[Rapidly Building Interactive CLIs in Go with Bubble Tea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)** — [Inngest](https://www.inngest.com/) talks about why they chose Bubble Tea and their method for building Bubble Tea applications.
+- **[Tips for Building Bubble Tea Progams](https://leg100.github.io/en/posts/building-bubbletea-programs/)** — In his inaugural blog post, [Louis Garman](https://leg100.github.io) talks through best practices for building Bubble Tea applications. As featured in [Golang Weekly](https://golangweekly.com/issues/521) and on [Hacker News](https://news.ycombinator.com/item?id=41369065).
 
 ---
 
-Part of the [Charm](https://charm.sh) Community.
+Part of [Charm](https://charm.sh) and Friends.
 
 <a href="https://charm.sh/">
   <img
