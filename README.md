@@ -46,7 +46,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [StormForge Optimize Controller](https://github.com/thestormforge/optimize-controller) - A tool for experimenting with application configurations in Kubernetes. (_built with Bubble Tea_)
 - [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client. (_built with Bubble Tea_)
 
-### Cyber Security (_built with Bubble Tea_)
+### Cyber Security
 
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials. (_built with Bubble Tea_)
 - [WG Commander](https://github.com/AndrianBdn/wg-cmd) - A TUI for a simple WireGuard VPN setup. (_built with Bubble Tea_)
