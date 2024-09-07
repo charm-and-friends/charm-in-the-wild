@@ -3,7 +3,7 @@
 
 # Charm In The Wild
 
-This is your one-stop shop to find _incredible_ community projects built with
+This is your one-stop shop to find *incredible* community projects built with
 the [Charm](https://github.com/charmbracelet/) stack. Get inspired, and most importantly, get building!
 
 This is an entirely community-driven repo for members of the community to share
@@ -87,10 +87,9 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Soft Serve](https://github.com/charmbracelet/soft-serve) - A command-line-first Git server that runs a TUI over SSH. (_built with Bubble Tea_)
 - [Storydb](https://github.com/grrlopes/storydb) - An improved bash/zsh-style ctrl+r command history finder. (_built with Bubble Tea_)
 - [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer. (_built with Bubble Tea_)
-- [tapioca](https://github.com/charm-and-friends/tapioca) - Floating progress bar compatible with any loggers that you might use. (_built with Bubble Tea_)
+- [tapioca](https://github.com/charm-and-friends/tapioca) -  Floating progress bar compatible with any loggers that you might use. (_built with Bubble Tea_)
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
 - [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
-- [hanchond](https://github.com/hanchon/hanchond) - Web3 network manager with a Terminal Block Explorer. (_built with Bubble Tea_)
 
 ### File Management
 
@@ -166,13 +165,13 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Editor Plugins
 
-_Plugins for text editors and IDEs._
+*Plugins for text editors and IDEs.*
 
-- [freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) - A wrapper for charm's freeze cli tool for usage in neovim.
+- [freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) -  A wrapper for charm's freeze cli tool for usage in neovim.
 
 ## Tutorials
 
-_Get started with the Charm ecosystem with these dazzling tutorials._
+*Get started with the Charm ecosystem with these dazzling tutorials.*
 
 - **[Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/)** — Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) and [Gum](https://github.com/charmbracelet/gum).
 - **[Rapidly Building Interactive CLIs in Go with Bubble Tea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)** — [Inngest](https://www.inngest.com/) talks about why they chose Bubble Tea and their method for building Bubble Tea applications.
