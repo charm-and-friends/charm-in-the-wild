@@ -90,6 +90,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [tapioca](https://github.com/charm-and-friends/tapioca) -  Floating progress bar compatible with any loggers that you might use. (_built with Bubble Tea_)
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
 - [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
+- [hanchond](https://github.com/hanchon/hanchond) - Web3 network manager with a Terminal Block Explorer. (_built with Bubble Tea_)
 
 ### File Management
 
