@@ -156,6 +156,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer. (_built with Bubble Tea_)
 - [ticker](https://github.com/achannarasappa/ticker) - A terminal stock viewer and stock position tracker. (_built with Bubble Tea_)
 - [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones. (_built with Bubble Tea_)
+- [ciphery](https://github.com/captainadorable/ciphery) - A local vault manager app designed for securely storing and managing secrets.(_built with Bubble Tea_)
 
 ### RSS and News
 
