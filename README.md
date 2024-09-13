@@ -1,6 +1,3 @@
-<!--lint ignore double-link awesome-git-repo-age awesome-github -->
-<!-- TODO: remove awesome-git-repo-age when repo is older than 30 days -->
-
 # Charm In The Wild
 
 This is your one-stop shop to find _incredible_ community projects built with
