@@ -1,3 +1,5 @@
+<!--lint ignore double-link awesome-github -->
+
 # Charm In The Wild
 
 This is your one-stop shop to find _incredible_ community projects built with
