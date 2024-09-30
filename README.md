@@ -185,6 +185,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [enola](https://github.com/sherlock-project/enola) - Find social media accounts by username across social networks. (_built with Bubble Tea_)
 - [gembro](https://git.sr.ht/~rafael/gembro) - A mouse-driven Gemini browser. (_built with Bubble Tea_)
 - [got](https://github.com/fedeztk/got) - A simple translator and text-to-speech app built on simplytranslate's APIs. (_built with Bubble Tea_)
+- [LinGo](https://github.com/hsnborn22/LinGo) - A terminal based language acquisition application, which allows you to learn languages while reading texts.
 
 ### Finance
 
