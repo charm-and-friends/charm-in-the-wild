@@ -48,6 +48,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [outtasync](https://github.com/dhth/outtasync) - Identify CloudFormation stacks that are out of sync with their template files. (_built with Bubble Tea_)
 - [pug](https://github.com/leg100/pug) - Terraform task manager. (_built with Bubble Tea_)
 - [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client. (_built with Bubble Tea_)
+- [PassDIY](https://github.com/jalpp/PassDIY) - A TUI for password management on HashiCorp Vault. (_built with Bubble Tea_)
 
 ### Cyber Security (_built with Bubble Tea_)
 
