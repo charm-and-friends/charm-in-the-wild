@@ -138,6 +138,12 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [typioca](https://github.com/bloznelis/typioca) - A typing test. (_built with Bubble Tea_)
 - [wordle](https://github.com/sa-/wordle-tui) - A wordle game for your terminal! (_built with Bubble Tea_)
 
+### Messaging and Communication
+
+<!-- In alphabetical order, please -->
+
+- [vault](https://github.com/athulreji/vault-client) - A terminal chat application with file transfer support. (_built with Bubble Tea_)
+
 ### Networking and File Transfer
 
 <!-- In alphabetical order, please -->
