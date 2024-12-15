@@ -139,6 +139,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [text-adventure](https://gitlab.com/thustle/text-adventure) - A text adventure game/engine with a TUI interface. (_built with Bubble Tea_)
 - [typioca](https://github.com/bloznelis/typioca) - A typing test. (_built with Bubble Tea_)
 - [wordle](https://github.com/sa-/wordle-tui) - A wordle game for your terminal! (_built with Bubble Tea_)
+- [flappy-gopher](https://codeberg.org/gregorni/flappy-gopher/) - Flappy bird in the terminal. (_built with Bubble Tea_)
 
 ### Messaging and Communication
 
