@@ -142,7 +142,6 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [flappy-gopher](https://codeberg.org/gregorni/flappy-gopher/) - Flappy bird in the terminal. (_built with Bubble Tea and Lip Gloss_)
 - [wordle-helper](https://codeberg.org/gregorni/wordle-helper/) - A program to help you solve Wordle puzzles. (_built with Bubble Tea and Lip Gloss_)
 
-
 ### Messaging and Communication
 
 <!-- In alphabetical order, please -->
