@@ -140,6 +140,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [typioca](https://github.com/bloznelis/typioca) - A typing test. (_built with Bubble Tea_)
 - [wordle](https://github.com/sa-/wordle-tui) - A wordle game for your terminal! (_built with Bubble Tea_)
 - [flappy-gopher](https://codeberg.org/gregorni/flappy-gopher/) - Flappy bird in the terminal. (_built with Bubble Tea and Lip Gloss_)
+- [wordle-helper](https://codeberg.org/gregorni/wordle-helper/) - A program to help you solve Wordle puzzles. (_built with Bubble Tea and Lip Gloss_)
 
 ### Messaging and Communication
 
