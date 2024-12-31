@@ -192,6 +192,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser. (_built with Bubble Tea_)
 - [fztea](https://github.com/jon4hz/fztea) - A Flipper Zero TUI. (_built with Bubble Tea_)
 - [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser. (_built with Bubble Tea_)
+- [gobottom](https://github.com/diegolara93/gobottom) - A TUI system monitor. (_built with Bubble Tea_)
 
 ### Language and Translation
 
