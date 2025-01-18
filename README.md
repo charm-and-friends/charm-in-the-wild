@@ -31,6 +31,13 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [mods](https://github.com/charmbracelet/mods) - AI on the CLI, built for pipelines. (_built with Bubble Tea_)
 - [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary. (_built with Bubble Tea_)
 
+### Blockchain
+
+<!-- In alphabetical order, please -->
+
+ - [nodekit](https://github.com/algorandfoundation/nodekit) - A TUI for running Algorand Nodes (_built with Bubble Tea_)
+
+
 ### Cloud and DevOps
 
 <!-- In alphabetical order, please -->
