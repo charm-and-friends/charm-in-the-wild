@@ -156,7 +156,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 <!-- In alphabetical order, please -->
 
 - [portal](https://github.com/ZinoKader/portal) - Secure transfers between computers. (_built with Bubble Tea_)
-- [snips.sh](https://snips.sh/) - SSH-powered pastebin with a human-friendly TUI and web UI
+- [snips.sh](https://snips.sh/) - SSH-powered pastebin with a human-friendly TUI and web UI.
 - [tran](https://github.com/abdfnx/tran) - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal)). (_built with Bubble Tea_)
 - [wishlist](https://github.com/charmbracelet/wishlist) - An SSH directory and bastian. (_built with Bubble Tea_)
 
