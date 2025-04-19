@@ -105,6 +105,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [startpoint](https://github.com/susiteemu/startpoint) - A TUI/CLI tool for managing and scripting HTTP/RESTful requests. (_built with Bubble Tea_)
 - [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer. (_built with Bubble Tea_)
 - [tapioca](https://github.com/charm-and-friends/tapioca) - Floating progress bar compatible with any loggers that you might use. (_built with Bubble Tea_)
+- [termpicker](https://github.com/ChausseBenjamin/termpicker) - A colorpicker for your terminal.
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
 - [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
 
