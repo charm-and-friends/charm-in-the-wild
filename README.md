@@ -145,6 +145,8 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [wordle-helper](https://codeberg.org/gregorni/wordle-helper/) - A program to help you solve Wordle puzzles. (_built with Bubble Tea and Lip Gloss_)
 - [gone-away](https://codeberg.org/gregorni/gone-away) - Conway's Game of Life with text files. (_built with Bubble Tea and Lip Gloss_)
 - [go-learn-vim](https://github.com/dasvh/go-learn-vim) - A terminal-based game to teach users the basics of Vim motions. (_built with Bubble Tea, Bubbles and Lip Gloss_)
+- [go-typer](https://github.com/prime-run/go-typer) - An sleek, blazing-fast and fun terminal typing game inspired by MonkeyType! 
+
 
 ### Messaging and Communication
 
@@ -177,6 +179,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [ticker](https://github.com/achannarasappa/ticker) - A terminal stock viewer and stock position tracker. (_built with Bubble Tea_)
 - [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones. (_built with Bubble Tea_)
 - [ciphery](https://github.com/captainadorable/ciphery) - A local vault manager app designed for securely storing and managing secrets.(_built with Bubble Tea_)
+- [togo](https://github.com/prime-run/togo) - A fast, simple and beautifull termianl-based todo manager built in go
 
 ### RSS and News
 
