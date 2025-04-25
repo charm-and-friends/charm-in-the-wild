@@ -35,6 +35,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <!-- In alphabetical order, please -->
 
+- [Atmos](https://github.com/cloudposse/atmos) - Terraform orchestration tool for DevOps. (_built with Bubble Tea, Lip Gloss, Glamour, Log, and Huh_)
 - [Aztify](https://github.com/Azure/aztfy) - Bring Microsoft Azure resources under Terraform. (_built with Bubble Tea_)
 - [Daytona](https://github.com/daytonaio/daytona) - An development environment manager. (_built with Bubble Tea_)
 - [StormForge Optimize Controller](https://github.com/thestormforge/optimize-controller) - A tool for experimenting with application configurations in Kubernetes. (_built with Bubble Tea_)
@@ -43,6 +44,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS with Amazon Route53; expose your EC2 quickly, securely and privately. (_built with Bubble Tea_)
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - A tool for visualizing dynamic node usage within an EKS cluster. (_built with Bubble Tea_)
 - [kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic. (_built with Bubble Tea_)
+- [Kuzco](https://github.com/RoseSecurity/Kuzco) - Intelligently analyze your Terraform and OpenTofu configurations. (_built with Glamour and Lip Gloss_)
 - [laboon](https://github.com/arisnacg/laboon) - A Docker-desktop-style container manager. (_built with Bubble Tea_)
 - [mc](https://github.com/minio/mc) - The official [MinIO](https://min.io) client. (_built with Bubble Tea_)
 - [outtasync](https://github.com/dhth/outtasync) - Identify CloudFormation stacks that are out of sync with their template files. (_built with Bubble Tea_)
