@@ -145,7 +145,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [wordle-helper](https://codeberg.org/gregorni/wordle-helper/) - A program to help you solve Wordle puzzles. (_built with Bubble Tea and Lip Gloss_)
 - [gone-away](https://codeberg.org/gregorni/gone-away) - Conway's Game of Life with text files. (_built with Bubble Tea and Lip Gloss_)
 - [go-learn-vim](https://github.com/dasvh/go-learn-vim) - A terminal-based game to teach users the basics of Vim motions. (_built with Bubble Tea, Bubbles and Lip Gloss_)
-- [go-typer](https://github.com/prime-run/go-typer) - An sleek, blazing-fast and fun terminal typing game inspired by MonkeyType. (_built with Bubble Tea_)
+- [go-typer](https://github.com/prime-run/go-typer) - a sleek, blazing-fast and fun terminal typing game inspired by MonkeyType. (_built with Bubble Tea_)
 
 ### Toys
 
