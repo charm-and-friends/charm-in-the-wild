@@ -149,7 +149,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ### Toys
 
-- [fireworks-cli](https://github.com/Andrew-Wichmann/fireworks-cli) - fireworks on the CLI (_built with Bubble Tea_)
+- [fireworks-cli](https://github.com/Andrew-Wichmann/fireworks-cli) - fireworks on the CLI. (_built with Bubble Tea_)
 
 ### Messaging and Communication
 
