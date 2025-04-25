@@ -147,6 +147,9 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [go-learn-vim](https://github.com/dasvh/go-learn-vim) - A terminal-based game to teach users the basics of Vim motions. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [go-typer](https://github.com/prime-run/go-typer) - An sleek, blazing-fast and fun terminal typing game inspired by MonkeyType. (_built with Bubble Tea_)
 
+### Toys
+
+- [fireworks-cli](https://github.com/Andrew-Wichmann/fireworks-cli): fireworks on the CLI
 
 ### Messaging and Communication
 
