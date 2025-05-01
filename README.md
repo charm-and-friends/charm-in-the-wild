@@ -12,6 +12,8 @@ You're also welcome to contribute ideas without building them out.
 
 To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) library? Check out [additional-bubbles](https://github.com/charm-and-friends/additional-bubbles) and make a PR there.
+
 ## Contents
 
 - [Applications](#applications)
