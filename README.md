@@ -98,12 +98,13 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [hiSHtory](https://github.com/ddworken/hishtory) - Your shell history in context: synced, and queryable. (_built with Bubble Tea_)
 - [httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool. (_built with Bubble Tea_)
 - [json-log-viewer](https://github.com/hedhyw/json-log-viewer) - An interactive JSON log viewer. (_built with Bubble Tea_)
-- [mdtt](https://github.com/szktkfm/mdtt) - A TUI for editing markdown tables.  (_built with Bubble Tea_)
+- [mdtt](https://github.com/szktkfm/mdtt) - A TUI for editing markdown tables. (_built with Bubble Tea_)
 - [mergestat](https://github.com/mergestat/mergestat) - Run SQL queries on git repositories. (_built with Bubble Tea_)
 - [meteor](https://github.com/stefanlogue/meteor) - A highly customizable conventional commit message tool. (_built with Bubble Tea_)
 - [mpwt](https://github.com/songlim327/mpwt) - A TUI tool transforming Windows Terminal experience by splitting multi commands into organized panes. (_built with Bubble Tea_)
 - [mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs via a TUI. (_built with Bubble Tea_)
 - [pathos](https://github.com/chip/pathos) - A PATH environment variable editor. (_built with Bubble Tea_)
+- [TermiPOSTMAN](https://github.com/Suryakantdsa/TermiPOSTMAN) - A beautiful and intuitive Postman-like API testing tool — right in your terminal. (_built with Bubble Tea_)
 - [prs](https://github.com/dhth/prs) - Stay up to date with your PRs. (_built with Bubble Tea_)
 - [skeleton](https://github.com/termkit/skeleton) - A TUI multi-tab library based on Bubble Tea framework. (_built with Bubble Tea_)
 - [startpoint](https://github.com/susiteemu/startpoint) - A TUI/CLI tool for managing and scripting HTTP/RESTful requests. (_built with Bubble Tea_)
@@ -238,6 +239,7 @@ _Plugins for text editors and IDEs._
 _Get started with the Charm ecosystem with these dazzling tutorials._
 
 <!--lint disable awesome-list-item-->
+
 - **[Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/)** - Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) and [Gum](https://github.com/charmbracelet/gum).
 - **[Rapidly Building Interactive CLIs in Go with Bubble Tea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)** - [Inngest](https://www.inngest.com/) talks about why they chose Bubble Tea and their method for building Bubble Tea applications.
 - **[Tips for Building Bubble Tea Progams](https://leg100.github.io/en/posts/building-bubbletea-programs/)** - In his inaugural blog post, [Louis Garman](https://leg100.github.io) talks through best practices for building Bubble Tea applications. As featured in [Golang Weekly](https://golangweekly.com/issues/521) and on [Hacker News](https://news.ycombinator.com/item?id=41369065).
@@ -254,4 +256,4 @@ Part of [Charm](https://charm.sh) and Friends.
   />
 </a>
 
-Charm热爱开源 • Charm loves open source
+Charm 热爱开源 • Charm loves open source
