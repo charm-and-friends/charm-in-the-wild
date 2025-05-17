@@ -32,6 +32,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [chatgpt-tui](https://github.com/tearingItUp786/chatgpt-tui) - A TUI for ChatGPT with SQLite sessions. (_built with Bubble Tea_)
 - [mods](https://github.com/charmbracelet/mods) - AI on the CLI, built for pipelines. (_built with Bubble Tea_)
 - [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary. (_built with Bubble Tea_)
+- [vyai](https://github.com/vybraan/vyai) - A lightweight CLI tool to interact with the Gemini API from the terminal.  (_built with Bubble Tea, Lip Gloss, Glamour_)
 
 ### Cloud and DevOps
 
