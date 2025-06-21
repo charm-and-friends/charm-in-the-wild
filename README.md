@@ -71,6 +71,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [redis_tui](https://github.com/mat2cc/redis_tui) - A Redis database browser. (_built with Bubble Tea_)
 - [schemas](https://github.com/dhth/schemas) - Lets you inspect postgres schemas in the terminal. (_built with Bubble Tea_)
 - [termdbms](https://github.com/mathaou/termdbms) - A keyboard and mouse driven database browser. (_built with Bubble Tea_)
+- [qrypad](https://github.com/wheelibin/qrypad) - A simple terminal UI for quick, ad-hoc database exploration. (_built with Bubble Tea_)
 
 ### Development Tools
 
