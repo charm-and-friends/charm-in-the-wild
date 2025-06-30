@@ -224,6 +224,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [lunchtui](https://github.com/Rshep3087/lunchtui) - A TUI for [Lunch Money](https://www.lunchmoney.app/) to view and manage your finances. (_built with Bubble Tea_)
 - [puffin](https://github.com/siddhantac/puffin) - A TUI for hledger to manage your finances. (_built with Bubble Tea_)
 
 ## Editor Plugins
