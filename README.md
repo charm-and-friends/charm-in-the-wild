@@ -200,6 +200,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [circumflex](https://github.com/bensadeh/circumflex) - Read Hacker News in the terminal. (_built with Bubble Tea_)
 - [nachrichten](https://github.com/zMoooooritz/nachrichten) - Access up-to-date news in German provided by the [Tagesschau](https://www.tagesschau.de/). (_built with Bubble Tea_)
 - [nom](https://github.com/guyfedwards/nom) - An RSS reader and manager. (_built with Bubble Tea_)
+- [rift](https://github.com/matthieugusmini/rift) - LoL Esports in the terminal. (_built with Bubble Tea_)
 
 ### System Management
 
