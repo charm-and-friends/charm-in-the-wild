@@ -169,6 +169,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [letshare](https://github.com/MuhamedUsman/letshare) - A TUI for sharing files over local network - batteries included. (_built with Bubble Tea_)
 - [portal](https://github.com/ZinoKader/portal) - Secure transfers between computers. (_built with Bubble Tea_)
 - [snips.sh](https://snips.sh/) - SSH-powered pastebin with a human-friendly TUI and web UI. (_built with Bubble Tea and Wish_)
 - [tran](https://github.com/abdfnx/tran) - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal)). (_built with Bubble Tea_)
