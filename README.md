@@ -54,6 +54,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [pug](https://github.com/leg100/pug) - Terraform task manager. (_built with Bubble Tea_)
 - [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client. (_built with Bubble Tea_)
 - [PassDIY](https://github.com/jalpp/PassDIY) - A TUI for password management on HashiCorp Vault. (_built with Bubble Tea_)
+- [Provider Explorer](https://github.com/TerraConstructs/provider-explorer) - A Terraform Provider Schema Explorer. (_built with Bubble Tea, Lip Gloss_)
 
 ### Cyber Security (_built with Bubble Tea_)
 
