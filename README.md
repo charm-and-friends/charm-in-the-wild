@@ -181,6 +181,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [BubbleCal](https://github.com/yuvals1/bubblecal) - A fast, keyboard-driven terminal calendar with event management. (_built with Bubble Tea and Lip Gloss_)
 - [IDNT](https://github.com/r-darwish/idnt) - A batch software uninstaller. (_built with Bubble Tea_)
 - [Noted](https://github.com/torbratsberg/noted) - A note viewer and manager. (_built with Bubble Tea_)
 - [Slides](https://github.com/maaslalani/slides) - A markdown-based presentation tool. (_built with Bubble Tea_)
