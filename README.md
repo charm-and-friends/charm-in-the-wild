@@ -181,19 +181,20 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [BubbleCal](https://github.com/yuvals1/bubblecal) - A fast, keyboard-driven terminal calendar with event management. (_built with Bubble Tea and Lip Gloss_)
 - [IDNT](https://github.com/r-darwish/idnt) - A batch software uninstaller. (_built with Bubble Tea_)
 - [Noted](https://github.com/torbratsberg/noted) - A note viewer and manager. (_built with Bubble Tea_)
 - [Slides](https://github.com/maaslalani/slides) - A markdown-based presentation tool. (_built with Bubble Tea_)
 - [SlurmCommander](https://github.com/CLIP-HPC/SlurmCommander) - A Slurm workload manager. (_built with Bubble Tea_)
+- [ciphery](https://github.com/captainadorable/ciphery) - A local vault manager app designed for securely storing and managing secrets.(_built with Bubble Tea_)
 - [countdown](https://github.com/aldernero/countdown) - A multi-event countdown timer. (_built with Bubble Tea_)
 - [hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for the command line. (_built with Bubble Tea_)
 - [omm](https://github.com/dhth/omm) - A keyboard-driven task manager for the command line. (_built with Bubble Tea_)
 - [punchout](https://github.com/dhth/punchout) - Takes the suck out of logging time on JIRA. (_built with Bubble Tea_)
 - [tasktimer](https://github.com/caarlos0/tasktimer) - A dead-simple task timer. (_built with Bubble Tea_)
 - [ticker](https://github.com/achannarasappa/ticker) - A terminal stock viewer and stock position tracker. (_built with Bubble Tea_)
-- [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones. (_built with Bubble Tea_)
-- [ciphery](https://github.com/captainadorable/ciphery) - A local vault manager app designed for securely storing and managing secrets.(_built with Bubble Tea_)
 - [togo](https://github.com/prime-run/togo) - A fast, simple and beautifull termianl-based todo manager built in go. (_built with Bubble Tea_)
+- [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones. (_built with Bubble Tea_)
 
 ### RSS and News
 
