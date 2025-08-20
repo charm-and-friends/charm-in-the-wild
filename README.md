@@ -161,6 +161,11 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [fireworks-cli](https://github.com/Andrew-Wichmann/fireworks-cli) - fireworks on the CLI. (_built with Bubble Tea_)
 
+### Media
+
+- [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API. (_built with Bubble Tea_)
+
+
 ### Messaging and Communication
 
 <!-- In alphabetical order, please -->
