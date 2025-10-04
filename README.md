@@ -203,7 +203,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [tz](https://github.com/oz/tz) - A scheduling aid for people in multiple time zones. (_built with Bubble Tea_)
 - [ciphery](https://github.com/captainadorable/ciphery) - A local vault manager app designed for securely storing and managing secrets.(_built with Bubble Tea_)
 - [togo](https://github.com/prime-run/togo) - A fast, simple and beautifull termianl-based todo manager built in go. (_built with Bubble Tea_)
-- [NaSC](https://github.com/parnoldx/nascTUI) - NaSC is an TUI calculator where you do maths like a normal person. (_built with Bubble Tea_)
+- [NaSC](https://github.com/parnoldx/nascTUI) - A TUI calculator where you do maths like a normal person. (_built with Bubble Tea_)
 
 ### RSS and News
 
