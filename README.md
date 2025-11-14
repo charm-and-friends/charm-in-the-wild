@@ -135,6 +135,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [Advent of Go](https://github.com/daltonsw/aocgo) - An Advent of Code TUI wrapper and utility package. (_built with Bubble Tea_)
 - [ASCII Movie](https://github.com/gabe565/ascii-movie) - A Star Wars ASCII art movie player. (_built with Bubble Tea_)
 - [End Of Eden](https://github.com/BigJk/end_of_eden) - A "Slay the Spire"-like, roguelike deck-builder game. (_built with Bubble Tea_)
 - [Thardians](https://gitlab.com/thustle/thardians) - Space Invaders for the terminal. (_built with Bubble Tea_)
@@ -168,6 +169,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 ### Media
 
+- [BatterUp](https://github.com/daltonsw/batterup) - A stylish (and discrete) way to monitor MLB games from your terminal. (_built with Bubble Tea_)
 - [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API. (_built with Bubble Tea_)
 
 
@@ -225,6 +227,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser. (_built with Bubble Tea_)
 - [fztea](https://github.com/jon4hz/fztea) - A Flipper Zero TUI. (_built with Bubble Tea_)
+- [stylish](https://github.com/daltonsw/stylish) - A simple tool to configure stylish LS colors. (_built with Bubble Tea_)
 - [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser. (_built with Bubble Tea_)
 - [gobottom](https://github.com/diegolara93/gobottom) - A TUI system monitor. (_built with Bubble Tea_)
 
