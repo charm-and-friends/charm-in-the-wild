@@ -210,13 +210,14 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [togo](https://github.com/prime-run/togo) - A fast, simple and beautifull termianl-based todo manager built in go. (_built with Bubble Tea_)
 - [NaSC](https://github.com/parnoldx/nascTUI) - A TUI calculator where you do maths like a normal person. (_built with Bubble Tea_)
 
-### RSS and News
+### RSS, News and Weather
 
 <!-- In alphabetical order, please -->
 
 - [Canard](https://github.com/mrusme/canard) - An RSS client. (_built with Bubble Tea_)
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (_built with Bubble Tea_)
 - [circumflex](https://github.com/bensadeh/circumflex) - Read Hacker News in the terminal. (_built with Bubble Tea_)
+- [Marine-terminal](https://github.com/ngmaloney/marine-terminal) - A terminal-based application for displaying NOAA weather and tide information for US marine ports. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [nachrichten](https://github.com/zMoooooritz/nachrichten) - Access up-to-date news in German provided by the [Tagesschau](https://www.tagesschau.de/). (_built with Bubble Tea_)
 - [nom](https://github.com/guyfedwards/nom) - An RSS reader and manager. (_built with Bubble Tea_)
 - [rift](https://github.com/matthieugusmini/rift) - LoL Esports in the terminal. (_built with Bubble Tea_)
