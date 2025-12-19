@@ -171,6 +171,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [BatterUp](https://github.com/daltonsw/batterup) - A stylish (and discrete) way to monitor MLB games from your terminal. (_built with Bubble Tea_)
 - [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API. (_built with Bubble Tea_)
+- [Waves](https://github.com/llehouerou/waves) - Terminal music player with library browsing, queue management, and Soulseek integration. (_built with Bubble Tea, Lip Gloss_)
 
 
 ### Messaging and Communication
