@@ -34,6 +34,13 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary. (_built with Bubble Tea_)
 - [vyai](https://github.com/vybraan/vyai) - A lightweight CLI tool to interact with the Gemini API from the terminal.  (_built with Bubble Tea, Lip Gloss, Glamour_)
 
+### Blockchain
+
+<!-- In alphabetical order, please -->
+
+ - [nodekit](https://github.com/algorandfoundation/nodekit) - A TUI for running Algorand Nodes (_built with Bubble Tea_)
+
+
 ### Cloud and DevOps
 
 <!-- In alphabetical order, please -->
