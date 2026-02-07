@@ -123,6 +123,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [termpicker](https://github.com/ChausseBenjamin/termpicker) - A colorpicker for your terminal.
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
 - [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
+- [kue](https://github.com/kontrolplane/kue) - A management interface for working wuth Amazon Web Services Simple Queue Services. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 
 ### File Management
 
