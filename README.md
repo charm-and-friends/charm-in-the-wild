@@ -165,6 +165,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [gone-away](https://codeberg.org/gregorni/gone-away) - Conway's Game of Life with text files. (_built with Bubble Tea and Lip Gloss_)
 - [go-learn-vim](https://github.com/dasvh/go-learn-vim) - A terminal-based game to teach users the basics of Vim motions. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [go-typer](https://github.com/prime-run/go-typer) - a sleek, blazing-fast and fun terminal typing game inspired by MonkeyType. (_built with Bubble Tea_)
+- [gophertyper](https://github.com/mikegetz/gophertyper) - A TUI typing game about gophers by gophers. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 
 ### Toys
 
