@@ -140,6 +140,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [Advent of Go](https://github.com/daltonsw/aocgo) - An Advent of Code TUI wrapper and utility package. (_built with Bubble Tea_)
 - [ASCII Movie](https://github.com/gabe565/ascii-movie) - A Star Wars ASCII art movie player. (_built with Bubble Tea_)
+- [Clipet](https://github.com/yizhixiaokong/clipet) - A terminal-based virtual pet game with evolution system and mini games. (_built with Bubble Tea, Lipgloss, Bubbles_)
 - [End Of Eden](https://github.com/BigJk/end_of_eden) - A "Slay the Spire"-like, roguelike deck-builder game. (_built with Bubble Tea_)
 - [Thardians](https://gitlab.com/thustle/thardians) - Space Invaders for the terminal. (_built with Bubble Tea_)
 - [Typer](https://github.com/maaslalani/typer) - A typing test. (_built with Bubble Tea_)
