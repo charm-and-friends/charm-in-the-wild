@@ -46,6 +46,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [container-canary](https://github.com/NVIDIA/container-canary) - A container validator. (_built with Bubble Tea_)
 - [cueitup](https://github.com/dhth/cueitup) - Inspect messages in an AWS SQS queue in a simple and deliberate manner. (_built with Bubble Tea_)
 - [dns53](https://github.com/purpleclay/dns53) - Dynamic DNS with Amazon Route53; expose your EC2 quickly, securely and privately. (_built with Bubble Tea_)
+- [docker-dash](https://github.com/GustavoCaso/docker-dash) - A tool for managing docker resources from the confort of your terminal. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - A tool for visualizing dynamic node usage within an EKS cluster. (_built with Bubble Tea_)
 - [kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic. (_built with Bubble Tea_)
 - [Kuzco](https://github.com/RoseSecurity/Kuzco) - Intelligently analyze your Terraform and OpenTofu configurations. (_built with Glamour and Lip Gloss_)
@@ -57,6 +58,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [wander](https://github.com/robinovitch61/wander) - A HashiCorp Nomad terminal client. (_built with Bubble Tea_)
 - [PassDIY](https://github.com/jalpp/PassDIY) - A TUI for password management on HashiCorp Vault. (_built with Bubble Tea_)
 - [Provider Explorer](https://github.com/TerraConstructs/provider-explorer) - A Terraform Provider Schema Explorer. (_built with Bubble Tea, Lip Gloss_)
+
 
 ### Cyber Security (_built with Bubble Tea_)
 
