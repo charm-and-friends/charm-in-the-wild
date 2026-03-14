@@ -224,6 +224,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [drudgetea](https://github.com/mikegetz/drudgetea) - An interactive RSS Reader for drudgereportfeed.com. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [Canard](https://github.com/mrusme/canard) - An RSS client. (_built with Bubble Tea_)
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (_built with Bubble Tea_)
 - [circumflex](https://github.com/bensadeh/circumflex) - Read Hacker News in the terminal. (_built with Bubble Tea_)
