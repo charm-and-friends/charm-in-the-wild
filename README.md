@@ -130,7 +130,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
 - [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
 - [kue](https://github.com/kontrolplane/kue) - A management interface for working wuth Amazon Web Services Simple Queue Services. (_built with Bubbles, Bubble Tea and Lip Gloss_)
-- [fenics-tui](https://github.com/alfenec/fenics-tui) – Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.
+- [fenics-tui](https://github.com/alfenec/fenics-tui) - Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.
 
 ### File Management
 
