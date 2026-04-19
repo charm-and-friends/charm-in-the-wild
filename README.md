@@ -28,10 +28,11 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - A TUI for ChatGPT. (_built with Bubble Tea_)
 - [clawchat-cli](https://github.com/ngmaloney/clawchat-cli) - A CLI chat client for OpenClaw Gateway and Ollama models. (_built with Bubble Tea and Lip Gloss_)
-- [Plandex](https://github.com/plandex-ai/plandex) - A terminal-based AI coding engine for complex tasks. (_built with Bubble Tea_)
 - [chatgpt-cli](https://github.com/j178/chatgpt) - A CLI for ChatGPT. (_built with Bubble Tea_)
 - [chatgpt-tui](https://github.com/tearingItUp786/chatgpt-tui) - A TUI for ChatGPT with SQLite sessions. (_built with Bubble Tea_)
+- [clipt](https://github.com/Struki84/clipt) - Chat TUI go module for your agents and LLMs (_built with Bubble Tea, Lip Gloss, Glamour_)
 - [mods](https://github.com/charmbracelet/mods) - AI on the CLI, built for pipelines. (_built with Bubble Tea_)
+- [Plandex](https://github.com/plandex-ai/plandex) - A terminal-based AI coding engine for complex tasks. (_built with Bubble Tea_)
 - [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary. (_built with Bubble Tea_)
 - [vyai](https://github.com/vybraan/vyai) - A lightweight CLI tool to interact with the Gemini API from the terminal.  (_built with Bubble Tea, Lip Gloss, Glamour_)
 
