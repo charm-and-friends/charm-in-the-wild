@@ -186,6 +186,8 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux. (_built with Bubble Tea, Lip Gloss_)
 - [tTune](https://github.com/SteveMCWin/ttune) - An aesthetic guitar tuner for your terminal. (built with Bubble Tea, Lip Gloss)
 - [Waves](https://github.com/llehouerou/waves) - Terminal music player with library browsing, queue management, and Soulseek integration. (_built with Bubble Tea, Lip Gloss_)
+- [rig.fm](https://github.com/MWhyte/rig) - Internet radio in your terminal. Browse, search, and listen to thousands of stations. (_built with
+  Bubble Tea, Bubbles, Lip Gloss_)
 
 
 ### Messaging and Communication
