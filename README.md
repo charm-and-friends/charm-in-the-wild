@@ -26,6 +26,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding-agent sessions. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - A TUI for ChatGPT. (_built with Bubble Tea_)
 - [clawchat-cli](https://github.com/ngmaloney/clawchat-cli) - A CLI chat client for OpenClaw Gateway and Ollama models. (_built with Bubble Tea and Lip Gloss_)
 - [chatgpt-cli](https://github.com/j178/chatgpt) - A CLI for ChatGPT. (_built with Bubble Tea_)
