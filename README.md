@@ -86,6 +86,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [adotop](https://github.com/superyyrrzz/adotop) - Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal. (_built with Bubble Tea, Bubbles, Lip Gloss, Glamour, and Chroma_)
 - [AT CLI](https://github.com/daskycodes/at_cli) - Execute AT Commands via serial port connections. (_built with Bubble Tea_)
 - [CRT](https://github.com/BigJk/crt) - A simple terminal emulator for running Bubble Tea in a dedicated window, with optional shaders. (_built with Bubble Tea_)
 - [Glow](https://github.com/charmbracelet/glow) - A markdown reader, browser, and online markdown stash. (_built with Bubble Tea_)
