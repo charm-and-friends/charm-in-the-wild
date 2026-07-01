@@ -77,6 +77,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 <!-- In alphabetical order, please -->
 
 - [chtop](https://github.com/chhetripradeep/chtop) - Monitor your ClickHouse node without leaving the terminal. (_built with Bubble Tea_)
+- [pgxcli](https://github.com/balajz/pgxcli) - Postgres CLI with autocompletion and syntax highlighting. (_built with Bubble Tea, Lip Gloss, Huh_)
 - [redis-viewer](https://github.com/SaltFishPr/redis-viewer) - A Redis database browser. (_built with Bubble Tea_)
 - [redis_tui](https://github.com/mat2cc/redis_tui) - A Redis database browser. (_built with Bubble Tea_)
 - [schemas](https://github.com/dhth/schemas) - Lets you inspect PostgreSQL schemas in the terminal. (_built with Bubble Tea_)
