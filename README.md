@@ -132,6 +132,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [startpoint](https://github.com/susiteemu/startpoint) - A TUI/CLI tool for managing and scripting HTTP/RESTful requests. (_built with Bubble Tea_)
 - [sttr](https://github.com/abhimanyu003/sttr) - A general-purpose text transformer. (_built with Bubble Tea_)
 - [tapioca](https://github.com/charm-and-friends/tapioca) - Floating progress bar compatible with any loggers that you might use. (_built with Bubble Tea_)
+- [tea-dash](https://github.com/gbarany/tea-dash) - A gh-dash-style dashboard for Gitea and Forgejo: PRs, issues, notifications, and CI runs. (_built with Bubble Tea, Bubbles, Lip Gloss and Glamour_)
 - [TermiPOSTMAN](https://github.com/Suryakantdsa/TermiPOSTMAN) - A beautiful and intuitive Postman-like API testing tool — right in your terminal. (_built with Bubble Tea_)
 - [termpicker](https://github.com/ChausseBenjamin/termpicker) - A colorpicker for your terminal.
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
