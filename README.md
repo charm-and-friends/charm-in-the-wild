@@ -192,6 +192,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 ### Media
 
 - [BatterUp](https://github.com/daltonsw/batterup) - A stylish (and discrete) way to monitor MLB games from your terminal. (_built with Bubble Tea_)
+- [Golazo](https://github.com/0xjuanma/golazo) - A minimalist TUI for following live and recent football/soccer matches. (_built with Bubble Tea, Bubbles, Lip Gloss_)
 - [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API. (_built with Bubble Tea_)
 - [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux. (_built with Bubble Tea, Lip Gloss_)
 - [tTune](https://github.com/SteveMCWin/ttune) - An aesthetic guitar tuner for your terminal. (built with Bubble Tea, Lip Gloss)
