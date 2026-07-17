@@ -146,6 +146,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [diskbloom](https://github.com/Zingzy/diskbloom) - A pastel treemap disk usage analyzer. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [fm](https://github.com/knipferrc/fm) - A terminal-based file manager. (_built with Bubble Tea_)
 - [superfile](https://github.com/MHNightCat/superfile) - A fancy, modern terminal-based file manager. (_built with Bubble Tea_)
 - [walk](https://github.com/antonmedv/walk) - A terminal navigator. (_built with Bubble Tea_)
