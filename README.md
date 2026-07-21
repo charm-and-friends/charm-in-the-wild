@@ -207,6 +207,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [discord-delete](https://github.com/DatCodeMania/discord-delete) - Bulk-delete your Discord messages and reactions from your data package. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [EKO](https://github.com/kyren223/eko) - A terminal-native Discord alternative for Terminal Nerds. (_built with Bubble Tea_)
 - [vault](https://github.com/athulreji/vault-client) - A terminal chat application with file transfer support. (_built with Bubble Tea_)
 
