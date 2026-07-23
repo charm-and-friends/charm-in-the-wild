@@ -190,6 +190,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 ### Toys
 
 - [fireworks-cli](https://github.com/Andrew-Wichmann/fireworks-cli) - fireworks on the CLI. (_built with Bubble Tea_)
+- [philosophic moon](https://github.com/SorBalda/philosophic-moon) - A tiny cozy moon in your terminal: stargaze through meteor showers, water a shared plant, read philosophy under the stars. (_built with Bubble Tea and Lip Gloss_)
 
 ### Media
 
