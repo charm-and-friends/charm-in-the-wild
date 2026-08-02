@@ -219,6 +219,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 <!-- In alphabetical order, please -->
 
 - [letshare](https://github.com/MuhamedUsman/letshare) - A TUI for sharing files over local network - batteries included. (_built with Bubble Tea_)
+- [lookit](https://github.com/jonathandeamer/lookit) - A modern TUI browser for the finger protocol ([RFC 1288](https://www.rfc-editor.org/rfc/rfc1288)). Built for exploring, not just querying. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [Network Doctor](https://github.com/heymaikol/network-doctor) - A cross-platform TUI that pinpoints where a network connection breaks and suggests fixes. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [portal](https://github.com/ZinoKader/portal) - Secure transfers between computers. (_built with Bubble Tea_)
 - [snips.sh](https://snips.sh/) - SSH-powered pastebin with a human-friendly TUI and web UI. (_built with Bubble Tea and Wish_)
