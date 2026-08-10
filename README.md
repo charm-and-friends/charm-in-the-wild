@@ -249,6 +249,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [togo](https://github.com/prime-run/togo) - A fast, simple and beautifull termianl-based todo manager built in go. (_built with Bubble Tea_)
 - [Tudo](https://github.com/FiyZou/tudo) - A foreground todo TUI for keeping notes while working in Codex CLI or CC CLI. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [NaSC](https://github.com/parnoldx/nascTUI) - A TUI calculator where you do maths like a normal person. (_built with Bubble Tea_)
+- [nastro](https://github.com/scaccogatto/nastro) - Terminal call recorder for macOS: records system audio + mic (no bot joins the call), transcribes on-device with speaker diarization. TUI + headless CLI. (_built with Bubble Tea_)
 
 ### RSS, News and Weather
 
