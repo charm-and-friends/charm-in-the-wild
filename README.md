@@ -28,6 +28,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [agent-manager](https://github.com/YoanWai/agent-manager) - tmux TUI for Claude Code, Codex, OpenCode, Grok, Gemini CLI, and Pi: live status, a prompt without attaching, and in-terminal diff review. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding-agent sessions. (_built with Bubbles, Bubble Tea and Lip Gloss_)
+- [bermuda](https://github.com/bon5co/bermuda) - Orchestration harness beneath Claude Code on the herdr terminal multiplexer: schedules agent jobs on a cron, runs declared flows a step of which can't be skipped, and gives agents a shared thread/claim/forum layer. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [ChatGPTUI](https://github.com/dwisiswant0/chatgptui) - A TUI for ChatGPT. (_built with Bubble Tea_)
 - [clawchat-cli](https://github.com/ngmaloney/clawchat-cli) - A CLI chat client for OpenClaw Gateway and Ollama models. (_built with Bubble Tea and Lip Gloss_)
 - [chatgpt-cli](https://github.com/j178/chatgpt) - A CLI for ChatGPT. (_built with Bubble Tea_)
