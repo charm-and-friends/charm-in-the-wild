@@ -155,6 +155,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 <!-- In alphabetical order, please -->
 
 - [diskbloom](https://github.com/Zingzy/diskbloom) - A pastel treemap disk usage analyzer. (_built with Bubbles, Bubble Tea and Lip Gloss_)
+- [filu](https://github.com/vulcanshen/filu) - A no-learning-curve terminal file manager for macOS and Linux, driven entirely by Tab, Space, Enter and Esc. (_built with Bubble Tea and Lip Gloss_)
 - [fm](https://github.com/knipferrc/fm) - A terminal-based file manager. (_built with Bubble Tea_)
 - [superfile](https://github.com/MHNightCat/superfile) - A fancy, modern terminal-based file manager. (_built with Bubble Tea_)
 - [walk](https://github.com/antonmedv/walk) - A terminal navigator. (_built with Bubble Tea_)
@@ -230,6 +231,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [Network Doctor](https://github.com/heymaikol/network-doctor) - A cross-platform TUI that pinpoints where a network connection breaks and suggests fixes. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [portal](https://github.com/ZinoKader/portal) - Secure transfers between computers. (_built with Bubble Tea_)
 - [snips.sh](https://snips.sh/) - SSH-powered pastebin with a human-friendly TUI and web UI. (_built with Bubble Tea and Wish_)
+- [sshu](https://github.com/vulcanshen/sshu) - A keyboard-driven TUI for SSH and SFTP, with a host book, a live terminal grid and two-sided file transfers. (_built with Bubble Tea and Lip Gloss_)
 - [tran](https://github.com/abdfnx/tran) - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal)). (_built with Bubble Tea_)
 - [wishlist](https://github.com/charmbracelet/wishlist) - An SSH directory and bastian. (_built with Bubble Tea_)
 
