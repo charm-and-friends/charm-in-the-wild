@@ -76,6 +76,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials. (_built with Bubble Tea_)
 - [WG Commander](https://github.com/AndrianBdn/wg-cmd) - A TUI for a simple WireGuard VPN setup. (_built with Bubble Tea_)
+- [y509](https://github.com/kanywst/y509) - Inspect and validate X.509 certificate chains, catching the missing intermediates and bad ordering that break curl but not browsers. (_built with Bubbles, Bubble Tea, Lip Gloss and Huh_)
 
 ### Database Tools
 
