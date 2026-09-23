@@ -283,6 +283,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 - [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser. (_built with Bubble Tea_)
 - [fztea](https://github.com/jon4hz/fztea) - A Flipper Zero TUI. (_built with Bubble Tea_)
+- [homebutler](https://github.com/Higangssh/homebutler) - Reports what changed on a home server since the last run, not what is running now. (_built with Bubble Tea and Lip Gloss_)
 - [stylish](https://github.com/daltonsw/stylish) - A simple tool to configure stylish LS colors. (_built with Bubble Tea_)
 - [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser. (_built with Bubble Tea_)
 - [gobottom](https://github.com/diegolara93/gobottom) - A TUI system monitor. (_built with Bubble Tea_)
