@@ -41,6 +41,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [showagent](https://github.com/aytzey/showagent) - Browse, search, resume, branch, and convert local AI coding-agent sessions from one TUI. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [tgpt](https://github.com/aandrew-me/tgpt) - Conversational AI for the CLI; no API keys necessary. (_built with Bubble Tea_)
 - [vyai](https://github.com/vybraan/vyai) - A lightweight CLI tool to interact with the Gemini API from the terminal.  (_built with Bubble Tea, Lip Gloss, Glamour_)
+- [wattop](https://github.com/jasonm4130/wattop) - Terminal monitor for Apple Silicon Macs that shows live Claude Code and Codex sessions, subagents, tokens/s and estimated cost beside CPU/GPU power, temperatures and fans. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [Waveloom](https://github.com/Menfre01/waveloom) - A DeepSeek-native terminal coding agent with prefix-cache architecture, Think-Act-Observe loop, and Claude Code-level TUI. (_built with Bubble Tea, Glamour, and Lip Gloss_)
 - [docker-ai-agent](https://github.com/MohamedKamal000/docker-ai-agent) - An AI agent that helps you inspect and operate local Docker environments through a terminal UI, without the need to install Docker Desktop. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 
