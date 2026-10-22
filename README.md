@@ -258,6 +258,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 <!-- In alphabetical order, please -->
 
 - [BubbleCal](https://github.com/yuvals1/bubblecal) - A fast, keyboard-driven terminal calendar with event management. (_built with Bubble Tea and Lip Gloss_)
+- [Bubble World Clock](https://github.com/thomasjdelaney/BubbleWorldClock) - A terminal world clock with configurable city, timezone, and daylight timelines. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [Gloss](https://github.com/Architeg/gloss) - A local-first command glossary for saving and searching shell commands, importing aliases, and syncing managed aliases. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [IDNT](https://github.com/r-darwish/idnt) - A batch software uninstaller. (_built with Bubble Tea_)
 - [lazymark](https://github.com/MathiasDrizzy/lazymark) - Markdown notes, tasks and a Kanban board in one keyboard-driven TUI, with wikilinks, search, templates and an MCP server. (_built with Bubble Tea, Bubbles, Lip Gloss and Glamour_)
