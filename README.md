@@ -85,6 +85,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [keyward](https://github.com/gateway-of-last-resort/keyward) - Manage SSH keys, edit ~/.ssh/config without reformatting it, and grade your SSH setup from A to F. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials. (_built with Bubble Tea_)
 - [WG Commander](https://github.com/AndrianBdn/wg-cmd) - A TUI for a simple WireGuard VPN setup. (_built with Bubble Tea_)
 - [whosent](https://github.com/kanywst/whosent) - Inspect agent delegation chains (OAuth token exchange, Biscuit, UCAN, macaroons): the human at the root, how authority narrows hop by hop, and the hop where trust breaks. (_built with Bubble Tea and Lip Gloss_)
