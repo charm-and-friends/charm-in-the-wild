@@ -85,6 +85,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
+- [blackwall](https://github.com/ksemele/blackwall) - k9s-style terminal UI for Wazuh: agents, inventory, the alerts feed and per-agent login sessions, without the web dashboard. (_built with Bubble Tea and Lip Gloss_)
 - [keyward](https://github.com/gateway-of-last-resort/keyward) - Manage SSH keys, edit ~/.ssh/config without reformatting it, and grade your SSH setup from A to F. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials. (_built with Bubble Tea_)
 - [WG Commander](https://github.com/AndrianBdn/wg-cmd) - A TUI for a simple WireGuard VPN setup. (_built with Bubble Tea_)
