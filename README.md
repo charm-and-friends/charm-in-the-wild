@@ -307,6 +307,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [homebutler](https://github.com/Higangssh/homebutler) - Reports what changed on a home server since the last run, not what is running now. (_built with Bubble Tea and Lip Gloss_)
 - [stylish](https://github.com/daltonsw/stylish) - A simple tool to configure stylish LS colors. (_built with Bubble Tea_)
 - [ugm](https://github.com/ariasmn/ugm) - A unix user and group browser. (_built with Bubble Tea_)
+- [whyd](https://github.com/vmaltarello/whyd) - Reads the journal of the previous session and tells you how it ended (clean shutdown, hard power-off, never woke from sleep, kernel panic) and what went wrong before. (_built with Bubble Tea and Lip Gloss_)
 - [gobottom](https://github.com/diegolara93/gobottom) - A TUI system monitor. (_built with Bubble Tea_)
 
 ### Language and Translation
