@@ -307,7 +307,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-- [chonk](https://github.com/kanywst/chonk) - Groups disk usage on macOS by what put it there (VM disks, toolchains, caches, build output), says why each exists, and reclaims it with the owner's own command, including space a VM guest freed but never gave back. (_built with Bubble Tea, Bubbles and Lip Gloss_)
+- [chonk](https://github.com/kanywst/chonk) - Groups disk usage by who put it there, says why each item exists, and reclaims it with the owner's own command, including space a VM guest freed but never gave back. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [cLive](https://github.com/koki-develop/clive) - Automate terminal operations and view them live in a browser. (_built with Bubble Tea_)
 - [fztea](https://github.com/jon4hz/fztea) - A Flipper Zero TUI. (_built with Bubble Tea_)
 - [homebutler](https://github.com/Higangssh/homebutler) - Reports what changed on a home server since the last run, not what is running now. (_built with Bubble Tea and Lip Gloss_)
