@@ -174,6 +174,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [termpicker](https://github.com/ChausseBenjamin/termpicker) - A colorpicker for your terminal.
 - [trainer](https://github.com/rusinikita/trainer) - A Go concurrency coding interview simulator with learning materials. (_built with Bubble Tea_)
 - [ube](https://github.com/ramirezfernando/ube) - A lines of code counter. (_built with Bubble Tea_)
+- [weaver](https://github.com/medilies/weaver) - Open any project's tmux session with one command: windows, panes laid out in a grid, and their commands from a YAML file, with a browser that draws each window before it opens. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [kue](https://github.com/kontrolplane/kue) - A management interface for working wuth Amazon Web Services Simple Queue Services. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [fenics-tui](https://github.com/alfenec/fenics-tui) - Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.
 
