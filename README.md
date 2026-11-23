@@ -242,6 +242,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 - [sonicradio](https://github.com/dancnb/sonicradio) - A TUI radio player making use of Radio Browser API. (_built with Bubble Tea_)
 - [TwitchLiveCLI](https://github.com/thomasjdelaney/TwitchLiveCLI) - Monitor followed Twitch channels, launch live streams, and get desktop notifications. (_built with Bubbles, Bubble Tea and Lip Gloss_)
 - [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) - Terminal Spotify client for macOS and Linux. (_built with Bubble Tea, Lip Gloss_)
+- [mangap](https://github.com/hongnoul/mangap) - Read manga in your terminal, with pages rendered as real images over the kitty graphics protocol. (_built with Bubble Tea, Bubbles and Lip Gloss_)
 - [tTune](https://github.com/SteveMCWin/ttune) - An aesthetic guitar tuner for your terminal. (built with Bubble Tea, Lip Gloss)
 - [Waves](https://github.com/llehouerou/waves) - Terminal music player with library browsing, queue management, and Soulseek integration. (_built with Bubble Tea, Lip Gloss_)
 - [rig.fm](https://github.com/MWhyte/rig) - Internet radio in your terminal, with one-keypress Shazam-style track identification. (_built with
